@@ -1,4 +1,5 @@
-Puesto de Periodicos by Rubén Cuadra A010119102
+Puesto de Periodicos by Rubén Cuadra
+IT HAS LOTS OF BUGS, THE CART IS FAKE AND THE ‘CADUCADOS’ ARE ALSO FAKE, THIS WAS A SCHOOL HOMEWORK BUT IT IS USEFUL AS GUIDE OF C++ AS WELL AS HOW TO USE SOME HERITAGE, CASTING AND OTHER STUFF OF C
 
 Al correr el programa uno decide como acceder, si Administrador o Cliente
 
